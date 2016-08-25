@@ -1,8 +1,8 @@
 /* custom styles */
-body {
+/*body {
   height: auto;
-}
-.content {
+}*/
+/*.content {
   font-family: 'Open Sans', sans-serif;
 }
 
@@ -13,23 +13,27 @@ body {
 	Clear: both;
 	Height: 0;
 	Font-size: 0;
-}
+}*/
 /*
 .hero-img {
   /*background-image: url("../imgs/Palm copy.jpg");*/
   /*margin: 0 auto;
   height: 100px;
   width: 100px;
-}*/*/
-/*
-body {
+}*/
+
+/*body {
   background-image: url("../imgs/Palm copy.jpg");
+  background-color: black;
 }*/
 
 h1, h2 {
   text-align: center;
   color: white;
-  margin-top: 700%;
+  /*margin-top: 70%;*/
+}
+.header-container {
+  margin-top: 600px;
 }
 
 h1 {
@@ -46,12 +50,12 @@ h1 {
   position: fixed;
   width: 100%;
   height: 1300px;
-  z-index: -1;
+  /*z-index: -1;*/
 }
 
 .jumbotron {
   background-color: transparent;
-  height: 100vh;
+  /*height: 100vh;*/
   color: white;
   text-align: center;
 }
@@ -68,7 +72,7 @@ nav a {
   color: white;
   padding: 20px;
   text-transform: uppercase;
-  font-size: 150%;
+  /*font-size: 150%;*/
 }
 
 a:hover {
@@ -77,8 +81,8 @@ a:hover {
 }
 
 .container, .content, .row, .col-sm-12 {
-  width: 100%;
-  height: 100%;
+  /*width: 100%;*/
+  /*height: 100%;*/
 }
 
 nav {
